@@ -1,0 +1,44 @@
+.login_background{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+
+    padding-top:0rem;
+
+
+}
+
+
+
+.formulario_login{
+    height: 65vh;
+    border-radius:30px;
+
+    padding-top:0rem;
+    margin-right:150px;
+}
+
+.banner-login img{
+    align-self: flex-end;
+    width:35rem;
+    padding-left: 30px;
+
+
+}
+
+.banner-login h2,span{
+    margin-left:100px;
+
+}
+
+.banner-login h2{
+    font-size:45px;
+
+}
+
+.banner-login span{
+
+    font-size:28px;
+
+}
+
