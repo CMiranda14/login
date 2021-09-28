@@ -5,16 +5,18 @@
 
     padding-top:0rem;
 
+    padding-bottom:20rem;
+
 
 }
 
 
 
 .formulario_login{
-    height: 65vh;
+    height:500px;
     border-radius:30px;
 
-    padding-top:0rem;
+   padding-top:0rem;
     margin-right:150px;
 }
 
